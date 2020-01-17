@@ -1,2 +1,3 @@
 Server,port,ssd
-Simulator,8802,mbtcu2
+MB_Simulator,8802,mbtcu2
+VW_Simulator,9901,vwocu
